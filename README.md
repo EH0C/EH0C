@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edoardo!;+Data+Analyst+&+ETL+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FF00&lines=Hello+World!+🌏;+I'm+Edoardo!;+Data+Analyst+&+ETL+Enthusiast" />
 </h1>
 
 <h3 align="center">📊 Data Analyst | 🐍 Python Developer | 🚀 ETL & Automation</h3>
