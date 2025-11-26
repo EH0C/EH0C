@@ -12,11 +12,11 @@
 
 <div align="center">
   
-🔭 I’m currently building **automated ETL pipelines and data warehouses**  
+🛠️ I’m currently building **automated ETL pipelines and data warehouses**  
 
 🌱 I’m learning **PySpark, Kafka, Docker**  
 
-👯 I’m looking to collaborate on **data engineering and automation projects**  
+👨🏻‍💻 I’m looking to collaborate on **data engineering and automation projects**  
 
 </div>
 
