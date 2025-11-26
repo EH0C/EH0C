@@ -40,7 +40,4 @@
 
 <br/><br/>
 
-<hr/>
 
-## 🤝 Let's Collaborate!
-I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
