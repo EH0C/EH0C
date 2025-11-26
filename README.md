@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages, Tools & Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pandas,sql,postgres,mysql,docker,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,github,vscode" />
 </div>
 
 <br/><br/>
