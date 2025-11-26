@@ -1,28 +1,47 @@
-# Edoardo Herianto
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=EH0C&label=Profile%20views&color=0e75b6&style=flat" alt="EH0C" /> 
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=FFFFFF&center=true&width=600&height=80&lines=Hi+There+%F0%9F%91%8B;My+name+is+Edoardo;I'm+a+Python+Data+Analyst;I+love+ETL+and+automation)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Edoardo!;+Data+Analyst+&+ETL+Enthusiast" />
+</h1>
 
----
+<h3 align="center">📊 Data Analyst | 🐍 Python Developer | 🚀 ETL & Automation</h3>
 
-## 🚀 About Me
-- 🔭 I’m currently building **automated ETL pipelines** and **data warehouses**  
-- 🌱 I’m learning **PySpark**, **Kafka**, **Docker**, and **Flink**  
-- 🎵 Passionate about music, guitar, and song production  
-- 💻 Python, SQL, Pandas, PySpark, Docker, Metabase  
+<br/>
 
----
+<div align="center">
+  
+🔭 I’m currently building **automated ETL pipelines and data warehouses**  
 
-## 📂 Projects
-- **[ETL Pipeline with Docker & Python](https://github.com/EH0C/docker-cron-python)** – End-to-end ETL workflow for MariaDB  
-- **[Data Streaming with Kafka & PySpark](https://github.com/EH0C/kafka-pyspark)** – Real-time data streaming projects  
+🌱 I’m learning **PySpark, Kafka, Docker**  
 
----
+👯 I’m looking to collaborate on **data engineering and automation projects**  
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/edoardo-herianto)  
-- [GitHub](https://github.com/EH0C)  
+</div>
 
----
+<div align="center"> 
+  <a href="mailto:edoardoherianto@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/edoardo-herianto/" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/EH0C" target="_blank"> 
+     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-## ⚡ Fun Fact
-I like **turning ideas into automated workflows** and **creating music** in my free time!
+<h2 align="center">⚒️ Languages, Tools & Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,pandas,sql,pycharm,postgres,mysql,docker,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=airflow,flink,kafka,notion,figma" /><br>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+## 🤝 Let's Collaborate!
+I'm always open to discussing new projects, ideas, or collaborations. Feel free to reach out!
